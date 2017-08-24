@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Chillation/Chillation.github.io.png?label=ready&title=Ready)](https://waffle.io/Chillation/Chillation.github.io?utm_source=badge)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chillation/Chillation.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
